@@ -14,6 +14,7 @@ I'm interested in software architecture, distributed systems, and intelligent ap
 - "YoBotz Lite" (https://github.com/Maedza/YoBotz_lite): Modular conversational automation platform.
 - "GBN Lab" (https://github.com/Maedza/GBN_Lab): Interactive Go-Back-N ARQ protocol simulator.
 - Micromouse: Embedded robotics and maze navigation (in progress).
+- **Micromouse**: An ongoing embedded robotics project focused on maze solving and navigation using ESP32 and C++.
 
 🌐 Portfolio
 
