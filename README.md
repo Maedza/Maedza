@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Elton Chipika 👋
 
-<!--
-**Maedza/Maedza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Communication Engineering student at the Civil Aviation University of China.
 
-Here are some ideas to get you started:
+I'm interested in software architecture, distributed systems, and intelligent applications. I enjoy exploring technical problems and using programming as a tool to design and build practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages
+
+- Python
+- C / C++
+
+🚀 Featured Projects
+
+- "YoBotz Lite" (https://github.com/Maedza/YoBotz_lite): Modular conversational automation platform.
+- "GBN Lab" (https://github.com/Maedza/GBN_Lab): Interactive Go-Back-N ARQ protocol simulator.
+- Micromouse: Embedded robotics and maze navigation (in progress).
+
+🌐 Portfolio
+
+Explore my projects and engineering journey: "My Portfolio" (https://maedza.github.io/portfolio/)
+
+Thanks for stopping by! 🙂 
