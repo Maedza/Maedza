@@ -1,6 +1,6 @@
 Hi, I'm Elton Chipika 👋
 
-🎓 Communication Engineering student at the Civil Aviation University of China.
+🎓 Telecommunications Engineering student at the Civil Aviation University of China.
 
 I'm interested in software architecture, distributed systems, and intelligent applications. I enjoy exploring technical problems and using programming as a tool to design and build practical solutions.
 
